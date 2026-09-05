@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0.0",
+  "repository": "supplier-bid-comparison-tools",
+  "state": "LOCAL_READY",
+  "publisher": {
+    "name": "SHAR Production",
+    "website": "https://sharprod.com/"
+  },
+  "assets": [
+    {
+      "asset_id": "shar-pe400-w10-183",
+      "slug": "quote-scope-comparison-matrix",
+      "title": "Quote Scope Comparison Matrix",
+      "title_ru": "Матрица сравнения объёма предложений",
+      "family": "supplier_bids",
+      "purpose": "Compares supplier quotes against a common scope checklist.",
+      "purpose_ru": "Сравнивает предложения подрядчиков по единому перечню работ.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    },
+    {
+      "asset_id": "shar-pe400-w10-184",
+      "slug": "supplier-quote-normalizer",
+      "title": "Supplier Quote Normalizer",
+      "title_ru": "Нормализатор предложений поставщиков",
+      "family": "supplier_bids",
+      "purpose": "Normalizes currency, tax, exclusions and contingency for comparison.",
+      "purpose_ru": "Нормализует валюту, налог, исключения и резерв для сравнения.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    }
+  ]
+}

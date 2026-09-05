@@ -1,0 +1,16 @@
+{
+  "scope": [
+    "shoot",
+    "edit"
+  ],
+  "quotes": [
+    {
+      "supplier": "A",
+      "items": [
+        "shoot",
+        "edit"
+      ],
+      "price": 100000
+    }
+  ]
+}
