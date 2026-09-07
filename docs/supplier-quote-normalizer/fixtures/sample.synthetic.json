@@ -1,0 +1,7 @@
+{
+  "base": 100000,
+  "currencyRate": 1,
+  "taxPercent": 20,
+  "contingencyPercent": 10,
+  "exclusionsValue": 5000
+}
